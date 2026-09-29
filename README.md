@@ -1,2 +1,5 @@
-# threads-publisher-media
-Public images for @bizlife_note Threads posts.
+# Threads投稿用の公開画像
+
+このリポジトリには、Threadsへ公開することが決まった画像だけを置きます。ここに追加したファイルは投稿前でも誰でも閲覧できます。
+
+投稿本文、アクセストークン、未承認の画像は置きません。本文と予約状態は非公開の `flogger23/threads-publisher` で管理します。
